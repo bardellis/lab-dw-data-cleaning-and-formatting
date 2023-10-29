@@ -1,5 +1,5 @@
-custateomer,state,gender,education,custateomer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
-RB50392,Washington,F,Master,793690,0,1000,0,Personal Auto,Four-Door Car,2
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+RB50392,Washington,F,Master,251459,0,1000,0,Personal Auto,Four-Door Car,2
 QZ44356,Arizona,F,Bachelor,697953,0,94,0,Personal Auto,Four-Door Car,1131
 AI49188,Nevada,F,Bachelor,1288743,48767,108,0,Personal Auto,Two-Door Car,566
 WW63253,California,M,Bachelor,764586,0,106,0,Corporate Auto,SUV,529
@@ -77,7 +77,7 @@ BN87372,Oregon,F,Bachelor,497480,75644,65,3,Personal Auto,Two-Door Car,467
 YX23800,Oregon,F,Bachelor,859160,38984,73,0,Personal Auto,Four-Door Car,350
 DZ87709,Oregon,F,High School or Below,559216,71811,71,0,Personal Auto,Four-Door Car,29
 XW13033,Nevada,F,College,800947,20961,67,0,Personal Auto,Four-Door Car,321
-SP81997,Washington,F,Master,793690,41275,96,0,Personal Auto,Four-Door Car,41
+SP81997,Washington,F,Master,251459,41275,96,0,Personal Auto,Four-Door Car,41
 OM82309,California,F,Bachelor,5816655,61321,186,1,Personal Auto,Luxury,427
 ZU35962,California,F,College,802522,0,77,0,Personal Auto,Two-Door Car,25
 VH85817,California,F,High School or Below,578018,51066,74,0,Personal Auto,Four-Door Car,787
@@ -987,7 +987,7 @@ DW96592,California,M,Bachelor,804487,71391,67,0,Personal Auto,Four-Door Car,284
 MT23134,Oregon,M,High School or Below,532572,0,73,0,Personal Auto,Two-Door Car,496
 BM69081,Arizona,M,Bachelor,694752,0,100,0,Personal Auto,SUV,925
 MB90871,Oregon,F,College,584741,23496,77,0,Special Auto,Four-Door Car,13
-GT62080,Washington,M,High School or Below,793690,55561,63,0,Personal Auto,Four-Door Car,227
+GT62080,Washington,M,High School or Below,251459,55561,63,0,Personal Auto,Four-Door Car,227
 QL77686,Nevada,F,College,472478,23986,119,0,Corporate Auto,SUV,463
 ON77827,Arizona,F,Master,279022,22974,71,0,Personal Auto,Four-Door Car,180
 KP18988,Oregon,F,High School or Below,2153133,0,101,0,Personal Auto,Four-Door Car,484
@@ -1070,4 +1070,3 @@ VJ51327,California,F,High School or Below,2031499,63209,102,2,Personal Auto,SUV,
 GS98873,Arizona,F,Bachelor,323912,16061,88,0,Personal Auto,Four-Door Car,633
 CW49887,California,F,Master,462680,79487,114,0,Special Auto,SUV,547
 MY31220,California,F,College,899704,54230,112,0,Personal Auto,Two-Door Car,537
-,California,F,Bachelor,793690,39295,193,0,Personal Auto,Four-Door Car,404
